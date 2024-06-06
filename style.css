@@ -2,4 +2,8 @@
     --cor-de-fundo: #6849C0;
     --roxo: #8357FF;
     --branco: #FFFFFF;
+    --botao-ativo: #474097;
+    --botao-inativo: rgba(71, 64, 151, 1);
+    --texto-fundo: rgba(128, 123, 201, 0.3);
+
 }
