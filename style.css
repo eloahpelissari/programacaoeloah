@@ -53,9 +53,9 @@ body{
 }
 
 .botoes{
-    display: flex;
+    display: block;
 }
-@media and (min-width: 768 px) {
+@media screen and (min-width: 768 px) {
     .botoes{
         display: flex;
     }
